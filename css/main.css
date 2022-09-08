@@ -139,7 +139,7 @@ img {
 .landing {
   background-image: url(../images/8.jpg);
   background-size: cover;
-  height: calc(100vh - 50px);
+  height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center
